@@ -66,7 +66,7 @@ crop_disease_ai/
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/yourusername/crop-disease-detection.git
+git clone (https://github.com/jazzkay/crop_disease_detection_ai)
 cd crop-disease-detection
 
 2. Create virtual environment
